@@ -1,0 +1,38 @@
+{"data":[
+    {
+    "id": 1, "text": "Email from Bullet List Dummy Answer from CHATGPT", "message": [
+{
+      "type": "ques",
+      "message": "Hi ChatGPT! Please Write an email from bullet list."
+            },
+            {
+      "type": "ans",
+      "message": "Hello, I hope this email finds you well. **This is a dummy response for reference purposes only. The content of this email is generated for testing and illustrative purposes**S.The dummy update on the project is as follows: We've made significant progress in the last week, particularly in the areas of [specific tasks]. We successfully reached two important milestones: [mention milestones]. While things are going smoothly overall, we did encounter some challenges with [brief description]. Our team is actively addressing these issues."
+            }
+        ]
+    },
+    {
+    "id": 2, "text": "Coding a Snake game Logic solution", "message": [
+{
+      "type": "ques",
+      "message": "Please tell me the logic of how to code a Snake game?"
+            },
+            {
+      "type": "ans",
+      "message": "**I want to clarify that this response is a dummy for reference purposes only**. The content below is generated for testing and illustrative purposes. Regarding the logic of coding a Snake game, here's a brief overview: Start by setting up the game board and initializing the snake and food positions. Continuously take user input to control the snake's direction (up, down, left, right). Update the snake's position based on the direction, and handle collisions with the walls and itself. Place food randomly on the board, and when the snake consumes it, increase its length. Keep track of the player's score, usually based on the number of food items consumed. End the game if the snake collides with the walls or itself. Implement the visual representation of the game, displaying the snake, food, and score. This is a simplified explanation, and the actual implementation can vary based on the programming language and platform used. Feel free to ask if you have any specific questions or need more details."
+            }
+        ]
+    },
+    {
+    "id": 3, "text": "Show Markdown text in  Response","message": [
+{
+      "type": "ques",
+      "message": "I have a task in hand. You have to assist me in the task to generate Markdown text"
+            },
+            {
+      "type": "ans",
+      "message": "I want to **emphasize** that this response is a dummy for reference purposes only. The content below is generated for testing and illustrative purposes.Regarding your task of generating Markdown text, I'm here to assist. Here's a quick guide on some Markdown functionalities:This is a **Markdown** example in a React component. - Style text with *italic* or **bold**."
+            }
+        ]
+    }
+]}
