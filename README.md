@@ -1,7 +1,7 @@
 # chat-gpt-ui
-# ChatGPU UI Illustration
+# ChatGPT UI Illustration
 
-Welcome to the ChatGPU UI Illustration repository! This project showcases a user interface built with React and Next.js, designed to illustrate the UI of ChatGPT
+Welcome to the ChatGPT UI Illustration repository! This project showcases a user interface built with React and Next.js, designed to illustrate the UI of ChatGPT
 
 ## Table of Contents
 - [Overview](#overview)
